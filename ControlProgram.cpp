@@ -12,5 +12,5 @@ int main(){
     cout << " nilai x sudah di koreksi menjadi : " << x << endl;
   }
 
-  cout
+  cout << " bilangan yang diberikan = " << x;
 }
