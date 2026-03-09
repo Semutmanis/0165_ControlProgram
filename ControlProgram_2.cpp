@@ -27,4 +27,8 @@ int main(){
   //else
   // status = "gagal";
   rerata = rata_rata(nilbi,nilmt);
+  //status = status_lulus(rerata);
+
+  cout << "status kelulusan = " << status_lulus(rerata) <<" ,dengan nilai rearata = " << rerata << endl;
+  
 }
