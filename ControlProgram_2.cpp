@@ -15,4 +15,11 @@ string status_lulus(float r){
 int main(){
   float nilbi, nilmt, rerata;
   string status;
+
+  cout << "mauskan nilai bahasa inggris = ";
+  cin >> nilbi;
+  cout << "masukan nilai matematika = ";
+  cin >> nilmt;
+
+  
 }
