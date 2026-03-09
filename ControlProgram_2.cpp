@@ -21,5 +21,10 @@ int main(){
   cout << "masukan nilai matematika = ";
   cin >> nilmt;
 
-  
+  //rerata = (nilbt+nilmt)/2;
+  //if (rerata >= 60)
+  // status = "lolos";
+  //else
+  // status = "gagal";
+  rerata = rata_rata(nilbi,nilmt);
 }
